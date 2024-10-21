@@ -19,7 +19,7 @@ This project is a Java implementation of the popular 2048 game. It includes both
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/thogio8/2048-game.git
+    git clone https://github.com/thogio8/2048_java.git
     ```
 2. Open the project in your IDE.
 
