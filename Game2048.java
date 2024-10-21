@@ -191,6 +191,10 @@ public class Game2048 {
         return board;
     }
 
+    public int getSize() {
+        return SIZE;
+    }
+
     public static void main(String[] args) {
         Game2048 game = new Game2048();
         game.printBoard();
