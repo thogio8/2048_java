@@ -187,6 +187,10 @@ public class Game2048 {
         }
     }
 
+    public int[][] getBoard() {
+        return board;
+    }
+
     public static void main(String[] args) {
         Game2048 game = new Game2048();
         game.printBoard();
