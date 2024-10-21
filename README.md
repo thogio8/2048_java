@@ -25,8 +25,9 @@ This project is a Java implementation of the popular 2048 game. It includes both
 
 ### Running the Game
 
-1. Compile and run the `Game2048GUI` class.
-2. The game window will open, and you can start playing using the arrow keys.
+1. Run command `javac Game2048GUI.java Game2048.java` to compile the code.
+2. Run `java Game2048GUI`.
+3. The game window will open, and you can start playing using the arrow keys.
 
 ## Code Overview
 
